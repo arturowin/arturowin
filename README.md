@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Arthur
 
-- 🔭 I’m currently working on Double Coconut Armenia 🥥
+- 🔭 I’m currently working at Double Coconut Armenia 🥥
 - 📫 How to reach me: https://t.me/arturowin
 
 
