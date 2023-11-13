@@ -5,7 +5,7 @@
 
 I have experience working with a variety of technologies, including:
 
-- 🌟 JavaScript / TypeScript / React / Node / Express
+- 🌟 JavaScript / TypeScript / Node / Express / React /
 
 - 🚀 GraphQL / REST API
 
